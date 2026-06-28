@@ -1,15 +1,15 @@
 # Welcome to Bloqr Systems
 
-**Privacy-first DNS filtering for a cleaner, faster, and safer internet.**
+**Take control of your privacy and get a cleaner, faster internet.**
 
-Bloqr Systems builds tools that put you back in control of your online experience. Our DNS filtering platform lets you block ads, trackers, and malware with zero technical complexity—whether you're protecting a single device or an entire household.
+Bloqr Systems builds tools that put you back in control of your online experience. Using enterprise-grade internet security, we protect you from nuisances like ads and hidden trackers—while keeping you safe from harmful sites. No technical knowledge required.
 
 ---
 
 ## Quick Links
 
 - 🌐 **[Visit Bloqr.dev](https://bloqr.dev)** — Learn more about our service
-- 📱 **[Open the App](https://app.bloqr.dev)** — Start filtering now
+- 📱 **[Open the App](https://app.bloqr.dev)** — Get started for free
 - 📚 **[Read the Docs](https://docs.bloqr.dev)** — Setup guides and technical details
 
 ---
@@ -17,30 +17,30 @@ Bloqr Systems builds tools that put you back in control of your online experienc
 ## What Bloqr Does
 
 ### No Technical Knowledge Required
-Bloqr handles the heavy lifting for you. Get set up in minutes, not hours.
+Bloqr handles all the complexity. Get set up in minutes, whether you're protecting one device or your whole household.
 
-### Filter What Matters
-- **Block Ads** — Cleaner, faster pages with fewer interruptions
-- **Block Trackers** — Stop hidden tracking tools that follow you across the web
-- **Block Malware** — Protect your devices from known harmful domains
+### Privacy Enforcement That Actually Works
+- **Block Ads & Nuisances** — Cleaner, faster pages with fewer interruptions
+- **Stop Hidden Tracking** — Prevent companies from following you across the web
+- **Block Harmful Sites** — Protect yourself from malicious and dangerous websites
 
-### Flexible Control
-Choose from curated filter lists or create custom rules. Works on devices or your entire network via router configuration.
+### Full Control, Your Way
+Easy-to-use settings let you choose what to block and what to allow. Protect just your phone, your whole family's devices, or your entire home network.
 
 ---
 
 ## Getting Started
 
 1. **Create an account** at [app.bloqr.dev](https://app.bloqr.dev)
-2. **Choose your filter lists** — Select what you want to block
-3. **Add to your device or router** — Copy your DNS address or download your compiled list
+2. **Choose what to block** — Pick from curated protection lists or create your own
+3. **Add to your devices** — Works on phones, computers, and home networks
 
-See [the documentation](https://docs.bloqr.dev) for detailed setup instructions for your device.
+See [the documentation](https://docs.bloqr.dev) for step-by-step setup instructions.
 
 ---
 
 ## About Bloqr Systems
 
-We believe privacy shouldn't be a luxury. Our mission is to make internet privacy accessible to everyone—from casual users to privacy-conscious families and households.
+We believe privacy and internet safety should be simple and accessible to everyone—not a luxury reserved for technical experts. By combining world-class infrastructure with an intuitive interface, we make powerful internet privacy protection something anyone can use.
 
-Have questions? Check out our [documentation](https://docs.bloqr.dev) or visit [bloqr.dev](https://bloqr.dev) to learn more.
+Have questions? Visit [bloqr.dev](https://bloqr.dev) or check out our [documentation](https://docs.bloqr.dev).
